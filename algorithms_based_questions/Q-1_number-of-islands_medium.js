@@ -6,7 +6,12 @@
  * Concept covered: backtracking in graphs
  */
 
-
+/**
+ * 
+ * @param {Array} grid its a 2d array
+ * @param {Number} r number of row
+ * @param {Number} c number of columns
+ */
 function dfs(grid,  r,  c) {
   let nr = grid.length;
   let nc = grid[0].length;
