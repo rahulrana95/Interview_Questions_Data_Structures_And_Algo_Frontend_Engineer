@@ -4,7 +4,7 @@ Hall of Fame
 
 This repo is about the questions asked in interviews specially in frontend engineer domain. It has mentioned which questions covered which concept so its easy to find concept wise , company wise questions and level wise questions.
 
-
+..
 Contribution Guidelines:
 1. Try to write a production level meaningful code.
 2. Cover all edge cases
